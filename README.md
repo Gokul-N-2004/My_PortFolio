@@ -20,36 +20,10 @@ This portfolio is built using React.js to showcase my professional projects, ski
 ## Technologies Used
 
 - React.js
-- HTML/CSS
+- CSS
 - JavaScript
 
-## Getting Started
 
-1. Clone the repository:
-
-   ```
-   git clone <repository_URL>
-   ```
-
-2. Navigate to the project directory:
-
-   ```
-   cd portfolio
-   ```
-
-3. Install dependencies:
-
-   ```
-   npm install
-   ```
-
-4. Run the development server:
-
-   ```
-   npm start
-   ```
-
-5. Open your browser and visit `http://localhost:3000` to view the portfolio.
 
 ## Contributing
 
