@@ -34,10 +34,12 @@ Contributions are welcome! Feel free to fork the repository and submit pull requ
 This project is licensed under the [MIT License](LICENSE).
 
 
-### Preview of the Project
-
 ## Contact
 
 For inquiries or collaboration opportunities, please contact me at [gokulndce.cs@gmail.com](mailto:gokulndce.cs@gmail.com).
+
+
+### Preview of the Project
+![Screenshot 2024-10-12 143805](https://github.com/user-attachments/assets/90a3824c-f389-407a-824a-e0d5db008f60)
 
 ---
