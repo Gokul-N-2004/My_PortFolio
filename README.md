@@ -38,7 +38,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 For inquiries or collaboration opportunities, please contact me at [gokulndce.cs@gmail.com](mailto:gokulndce.cs@gmail.com).
 
-### To Visit the Live Project
+> ### To Visit the Project
 Click the Link : [My Portfolio](https://my-portfolio-gokul-projects.vercel.app/)
 
 
