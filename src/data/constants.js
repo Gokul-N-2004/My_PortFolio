@@ -10,8 +10,7 @@ export const Bio = {
     "A passionate second-year Computer Science and Cybersecurity student, seamlessly integrating programming expertise with a keen focus on cybersecurity. Driven by the thrill of building secure and innovative software solutions, I actively participate in hackathons, pushing the boundaries of what's possible. With an insatiable curiosity and dedication to continuous learning, I am on a quest to shape the future of technology as a pioneering Software Development Engineer.",
   github: "https://github.com/KingGokul2004",
   resume:
-    "https://drive.google.com/file/d/1xtO62ouYifyI_tBZlCm-AKYvYwV2OaFD/view?usp=sharing",
-  linkedin: "https://www.linkedin.com/in/gokul-n-a680a5217/",
+    "https://drive.google.com/file/d/1584NkJB2Ko3mEgvpPTZMUOiJC3GapQph/view?usp=sharing",
   twitter: "https://x.com/Gokuln2004",
   insta:
     "https://www.instagram.com/smiling_villan/profilecard/?igsh=amNlZXZ0dmxmZzJp",
